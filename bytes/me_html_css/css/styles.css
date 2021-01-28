@@ -1,0 +1,29 @@
+body {
+  font-family: Verdana;
+  background-color: lightgrey;
+}
+h1{
+  color:white;
+}
+h3{
+  color: white;
+  width: 100%;
+}
+.tile{
+  background-color: #999999;
+  margin: 5px;
+  padding: 10px 5px;
+  height:200px; 
+  width: 20%;
+}
+.container{
+  margin-bottom: 10px;
+  padding: 100px 0px 0px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  /*justify-content: center;
+  align-items: flex-start;*/
+}
+#topic-learnt{
+  font-style: "Courier New";
+}
